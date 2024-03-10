@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dev-Nothing
+- 👋 Hi, I’m Louie
 - 👀 I’m Full Stack Developmer
 - 🌱 I’m currently learning new skills.
 - ✨ My repo is empty for now but it will not be soon.
